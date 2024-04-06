@@ -1,4 +1,4 @@
 [[redirects]]
     from = "/frontend/src/components/ProductList"
-    to = "/frontend/src/components/Form"
+    to = "/index.html"
     status = 200
